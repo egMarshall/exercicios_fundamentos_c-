@@ -1,0 +1,14 @@
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/bin/Debug/net8.0/Exercicio1RocketSeat
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/bin/Debug/net8.0/Exercicio1RocketSeat.deps.json
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/bin/Debug/net8.0/Exercicio1RocketSeat.runtimeconfig.json
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/bin/Debug/net8.0/Exercicio1RocketSeat.dll
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/bin/Debug/net8.0/Exercicio1RocketSeat.pdb
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/obj/Debug/net8.0/Exercicio1RocketSeat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/obj/Debug/net8.0/Exercicio1RocketSeat.AssemblyInfoInputs.cache
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/obj/Debug/net8.0/Exercicio1RocketSeat.AssemblyInfo.cs
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/obj/Debug/net8.0/Exercicio1RocketSeat.csproj.CoreCompileInputs.cache
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/obj/Debug/net8.0/Exercicio1RocketSeat.dll
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/obj/Debug/net8.0/refint/Exercicio1RocketSeat.dll
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/obj/Debug/net8.0/Exercicio1RocketSeat.pdb
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/obj/Debug/net8.0/Exercicio1RocketSeat.genruntimeconfig.cache
+/Users/ericomarshall/Desktop/dev/RocketSeat/c-sharp/Exercicio1RocketSeat/Exercicio1RocketSeat/obj/Debug/net8.0/ref/Exercicio1RocketSeat.dll
